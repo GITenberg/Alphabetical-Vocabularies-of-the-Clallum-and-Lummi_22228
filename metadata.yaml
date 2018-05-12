@@ -1,0 +1,27 @@
+_repo: Alphabetical-Vocabularies-of-the-Clallum-and-Lummi_22228
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Gibbs, George
+    birthdate: 1815
+    deathdate: 1873
+    gutenberg_agent_id: '6387'
+    url: http://www.gutenberg.org/2009/agents/6387
+    wikipedia: http://en.wikipedia.org/wiki/George_Gibbs_(geologist)
+description: ''
+gutenberg_issued: '2007-08-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '22228'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PM'
+- !lcsh 'Indians of North America -- Languages -- Glossaries, vocabularies, etc.'
+title: Alphabetical Vocabularies of the Clallum and Lummi
+url: http://www.gutenberg.org/ebooks/22228
